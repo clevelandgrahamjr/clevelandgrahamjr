@@ -8,8 +8,12 @@
 
 <h2>Let's Connect:</h2>
 
-[<img align="left" alt="Cleveland | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="[linkedin]">
+  <img align="left" alt="Cleveland | LinkedIn" width="22px"
+       src="./icons/linkedin-black.svg#gh-light-mode-only" />
+  <img align="left" alt="Cleveland | LinkedIn" width="22px"
+       src="./icons/linkedin-white.svg#gh-dark-mode-only" />
+</a>
 
 
 [linkedin]: https://linkedin.com/in/clevelandgrahamjr
