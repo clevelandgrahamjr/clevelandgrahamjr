@@ -8,12 +8,9 @@
 
 <h2>Let's Connect:</h2>
 
-<a href="[linkedin]">
+<a href="https://linkedin.com/in/cleveland-graham-jr">
   <img align="left" alt="Cleveland | LinkedIn" width="22px"
        src="./icons/linkedin-black.svg#gh-light-mode-only" />
   <img align="left" alt="Cleveland | LinkedIn" width="22px"
        src="./icons/linkedin-white.svg#gh-dark-mode-only" />
 </a>
-
-
-[linkedin]: https://linkedin.com/in/clevelandgrahamjr
