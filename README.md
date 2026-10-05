@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Project 1 — Network File Share & Permissions Lab](https://github.com/clevelandgrahamjr/network-file-shares-permissions)
-  - [Project 2 — Azure Two-VM Network Lab](https://github.com/clevelandgrahamjr/azure-two-vm-network)
+  <!-- - [Project 2 — Azure Two-VM Network Lab](https://github.com/clevelandgrahamjr/azure-two-vm-network) -->
 
 <h2>Let's Connect:</h2>
 
